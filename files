@@ -1,5 +1,2 @@
 id=seat-number-left
-id=seleted-sit-number
-
-                                    <button class="btn w-60 h-14 hover:bg-[#0307120D] bg-[#0307120D] text-[#030712CC] text-[16px] .font-open-sans border-none">Boarding Point - Laxmipur
-                                    </button> 
+id=selected-sit-number
